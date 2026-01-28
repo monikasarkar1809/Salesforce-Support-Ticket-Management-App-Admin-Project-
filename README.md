@@ -125,6 +125,8 @@ Manual test cases were created to validate:
 ✅ Flow automation accuracy
 ✅ Report and dashboard visibility
 
+ (Google Sheet) [https://docs.google.com/spreadsheets/d/1KJiDnRVBdBkL8puulI-zm2gu3WXYQ0kQZpgP4JgV6Es/edit?usp=sharing]
+ 
 📸 Screenshots
 Add your screenshots inside a folder called:
 screenshots/
