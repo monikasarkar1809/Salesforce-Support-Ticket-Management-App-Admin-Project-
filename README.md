@@ -133,17 +133,15 @@ screenshots/
 
 Recommended screenshots:
 
-Custom objects & fields
+Custom objects & fields [https://drive.google.com/file/d/1iSsKDeR0i4cO6eB0pQrmw_CRu2Bh5xHZ/view?usp=sharing] 
 
-Support Ticket page layout
+Record Triggered Flow : [https://drive.google.com/file/d/1-xboQRDI0rgtPrF3jXm2W_qnRW3QZkz1/view?usp=sharing]
 
-Record Triggered Flow
+Validation Rules : [https://drive.google.com/file/d/159Zf4Yc9e4yuZl9ZtyovFA43GPEOmwpr/view?usp=sharing]
 
-Validation Rules
+Reports : [https://drive.google.com/file/d/1IXHZ0DdZL7pvjsaX83-wefTxRO4gtUZO/view?usp=sharing]
 
-Reports
-
-Dashboard
+Dashboard :[https://drive.google.com/file/d/16xEod2OJevFLR2LgjPIKvwo2Pox1PmdA/view?usp=sharing]
 
 👤 Author
 Monika Sarkar
