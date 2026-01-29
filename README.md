@@ -4,6 +4,9 @@
 This Salesforce Admin + QA mini project is designed to manage customer support issues using a simple ticketing system.
 It helps users create and track **Support Tickets**, assign them to **Agents**, and monitor ticket progress using reports and dashboards.
 
+![image alt](https://github.com/monikasarkar1809/Salesforce-Support-Ticket-Management-App-Admin-Project-/blob/8ef469168fcdd2813a500ffec61016c6cc27175a/Support%20Pic.png)
+
+
 This project demonstrates Salesforce Admin skills such as:
 - Custom Objects & Fields
 - Lookup Relationships
